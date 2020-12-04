@@ -7,3 +7,5 @@ Friday Asignment
 
 Link to my portfolio
 https://github.com/nickinick
+
+copyrigkt@Nickinick2020
