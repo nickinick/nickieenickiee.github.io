@@ -22,7 +22,7 @@ Technologies used
 
 Link
 
-https://github.com/nickinick
+https://github.com/nickinick/nickinick.github.io
 
 License
 
