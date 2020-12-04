@@ -5,5 +5,5 @@ Nixon Kipkirui Ngetich
 
 Friday Asignment
 
-This is my portfolio
-
+Link to my portfolio
+https://github.com/nickinick
