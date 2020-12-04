@@ -1,7 +1,7 @@
 # nickinick.github.io
 Portfolio website
 
-By Nixon Ngetich
+By Nixon Kipkirui Ngetich
 
 
 This Portfolio website shows the projects that i have undertaken including the active links those projects.
