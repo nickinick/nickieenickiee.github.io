@@ -16,7 +16,7 @@ html {
     justify-content: center;
 
 }
-@media screen and (min-width: 451px) {
+media screen and (min-width: 451px) {
     div.intro {
         font-size: xxx-large;
         line-height: 40pt;
