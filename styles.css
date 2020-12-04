@@ -23,7 +23,7 @@ media screen and (min-width: 451px) {
     }
   }
   
-@media screen and (max-width: 450px) {
+media screen and (max-width: 450px) {
     div.intro {
         font-size: x-large;
         line-height: 20pt;
@@ -32,7 +32,7 @@ media screen and (min-width: 451px) {
 .btn {
     border-radius: 0%;
 }
-@media screen and (min-width: 451px) {
+media screen and (min-width: 451px) {
     div.page-link {
         position: absolute;
         margin-top: 30vh;
