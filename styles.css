@@ -66,7 +66,7 @@ media screen and (min-width: 451px) {
     }
   }
   
-@media screen and (max-width: 450px) {
+media screen and (max-width: 450px) {
     div.page-link {
         position: absolute;
         margin-top: 15vh;
@@ -111,7 +111,7 @@ nav {
     top: 0;
     width: 100%;
 }
-@media screen and (min-width: 451px){
+media screen and (min-width: 451px){
     #navlinks {
         margin-left: 50px;
     }
@@ -119,7 +119,7 @@ nav {
         margin-right: 30px;
     }
 }
-@media screen and (max-width: 450px){
+media screen and (max-width: 450px){
     #navlinks {
         margin-left: 0px;
     }
@@ -130,7 +130,7 @@ nav {
 #about {
     margin-top: 80px;
 }
-@media screen and (min-width: 451px){
+media screen and (min-width: 451px){
     #about h2 {
         color: black;
         font-weight: 600;
@@ -164,7 +164,7 @@ nav {
         text-align: center;
     }
 }
-@media screen and (max-width: 450px){
+media screen and (max-width: 450px){
     #about h2 {
         color: black;
         font-weight: 600;
@@ -204,7 +204,7 @@ nav {
 .feature {
     text-align: center;
 }
-@media screen and (min-width: 451px){
+media screen and (min-width: 451px){
     #r-icon {
         margin-top: 30px;
     }
@@ -236,7 +236,7 @@ nav {
         color: white;
     }
 }
-@media screen and (max-width: 450px){
+media screen and (max-width: 450px){
     #r-icon {
         margin-top: 30px;
     }
@@ -290,7 +290,7 @@ nav {
     padding-bottom: 100px;
     background-color: rgb(238, 235, 235);
 }
-@media screen and (min-width: 451px){
+media screen and (min-width: 451px){
     #portfolio h2 {
         color: black;
         font-weight: 600;
@@ -305,7 +305,7 @@ nav {
         border-width: 5px;
     }
 }
-@media screen and (max-width: 450px){
+media screen and (max-width: 450px){
     #portfolio h2 {
         color: black;
         font-weight: 600;
@@ -338,7 +338,7 @@ nav {
 .active:hover {
     color: white;
 }
-@media screen and (min-width: 451px){
+media screen and (min-width: 451px){
     .filter-button {
         margin: 10px;
         cursor: pointer;
@@ -402,7 +402,7 @@ nav {
         background-color: indianred;
     }
 }
-@media screen and (max-width: 450px){
+media screen and (max-width: 450px){
     .filter-button {
         margin: 2px;
         cursor: pointer;
@@ -501,7 +501,7 @@ nav {
     padding-bottom: 50px;
     background: linear-gradient(90deg, rgba(18,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
-@media screen and (min-width: 451px){
+media screen and (min-width: 451px){
     #contacts h2 {
         color: black;
         font-weight: 600;
@@ -516,7 +516,7 @@ nav {
         border-width: 5px;
     }
 }
-@media screen and (max-width: 450px){
+media screen and (max-width: 450px){
     #contacts h2 {
         color: black;
         font-weight: 600;
