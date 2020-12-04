@@ -1,0 +1,28 @@
+!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>This are my hobbies</title>
+  </head>
+  <body>
+
+      <h1>Here are my hobbies</h1>
+      <p>Hello there checkout my favs!</p>
+
+      <ul>
+        <li>Coding</li>
+        <li>Listening to pop and Bongo music</li>
+        <li>Dancing</li>
+      </ul>
+
+      <p>Here are others</p>
+
+      <ol>
+        <li>Playing football</li>
+        <li>Travelling</li>
+        <li>Playing Video Games</li>
+        <li>Watching movies</li>
+      </ol>
+
+  </body>
+</html>
