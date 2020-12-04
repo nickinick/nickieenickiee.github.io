@@ -1,2 +1,9 @@
 # nickinick.github.io
-MyFriday work
+Nick's Project
+
+Nixon Kipkirui Ngetich
+
+Friday Asignment
+
+This is my portfolio
+
